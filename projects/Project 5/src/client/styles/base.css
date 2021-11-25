@@ -2,13 +2,17 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
+    color: #1b4332;
+    align-content: center;
 }
 
 main {
     flex: 2;
+    align-content: center;
 }
 
 section {
     max-width: 800px;
     margin: 50px auto;
+    align-content: center;
 }

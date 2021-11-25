@@ -2,6 +2,7 @@ form {
     border: 1px solid #545454;
     border-radius: 3px;
     padding: 40px;
+    align-content: center;
 }
 
 input {
@@ -9,4 +10,10 @@ input {
     width: 100%;
     line-height: 16px;
     margin: 10px 0;
+    align-content: center;
+    margin-left: 360px;
+}
+
+#results {
+    font-size: 30px;
 }
